@@ -12,7 +12,9 @@ sudo apt-get install g++
 Если termux
 pkg install g++
 
-Может быть, предаться обновить пакеты!
+git clone https://github.com/RedCrabVb/tic-tac-toe; cd tic-tac-toe
+
+Возможно, предаться обновить пакеты!
 
 Компиляция
 g++ -o output tic-tac-toe.cpp
