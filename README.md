@@ -23,3 +23,4 @@ g++ -o output tic-tac-toe.cpp
 
 Update
 added simple code for java
+java -jar helloworld.jar
