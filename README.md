@@ -20,3 +20,6 @@ git clone https://github.com/RedCrabVb/tic-tac-toe; cd tic-tac-toe
 g++ -o output tic-tac-toe.cpp
 
 Запуск ./output
+
+Update
+added simple code for java
